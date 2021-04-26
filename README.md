@@ -8,4 +8,3 @@ The source code for DogePal Chat-Bot in DogeHouse.
 `!source-code` Links the source code.
 `!roll-a-die` Rolls a die.
 `!flip-a-coin` Flips a coin.
-!More features coming soon...
